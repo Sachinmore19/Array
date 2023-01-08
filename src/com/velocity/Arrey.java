@@ -62,7 +62,7 @@ public class Arrey {
 		System.out.println("minimum number"+min);
 		
 		
-		
+		System.out.println("this is the maximum number");
 		
 		
 		

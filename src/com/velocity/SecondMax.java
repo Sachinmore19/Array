@@ -20,6 +20,8 @@ public class SecondMax {
 
 		System.out.println(max);
 		System.out.println(max2);
+		System.out.println(max);
+		
 	}
 
 }
